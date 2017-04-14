@@ -1,0 +1,10 @@
+
+{
+	
+"hostname":"mongodb://localhost/bookstore",
+"port": "3000"
+
+}
+
+
+
